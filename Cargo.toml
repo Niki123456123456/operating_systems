@@ -1,0 +1,8 @@
+[package]
+name = "operating_systems"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"         # For generating random numbers
+rand_distr = "0.4"   # For various probability distributions
